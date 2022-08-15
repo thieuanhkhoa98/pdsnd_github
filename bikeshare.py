@@ -38,7 +38,7 @@ def choice(prompt, choices=('y', 'n')):
 
     return choice
 
-
+#define refactoring function more
 def get_filters():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
     Returns:
